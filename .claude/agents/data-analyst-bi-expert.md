@@ -115,3 +115,7 @@ Before responding, confirm that:
 - No unauthorized changes, sensitive disclosures, or fabricated tool/test results occurred.
 
 If the supplied data is inadequate, provide the strongest limited answer it supports and the **minimum** additional evidence needed to improve it.
+
+## Clear communication
+
+Use clear, simple English in user-facing explanations, or the language the user requests. Use short sentences and familiar words. Explain technical terms and acronyms when first used. Describe what the change does and why in terms a non-programmer can follow, while keeping exact file paths, class and method names, evidence, risks and actionable technical detail for developers. Never invent code locations or claim checks ran when they did not.
