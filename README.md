@@ -2,6 +2,8 @@
 
 **Version:** `1.1.0` · **License:** [MIT](LICENSE) · **Maintainer:** [dimitriskl](https://github.com/dimitriskl)
 
+> Part of [MyDevFactory](https://github.com/dimitriskl/mydevfactory). Its one-command installer sets up this agent, the other seven and the workflow skill together. You can also install this agent on its own (below).
+
 An evidence-based analytics agent for SQL, KPI definition, data quality, experimentation, forecasting and BI requirements. Install it on its own with the steps below, or with the other agents from [MyDevFactory](https://github.com/dimitriskl/mydevfactory).
 
 ## What problem does it solve?
