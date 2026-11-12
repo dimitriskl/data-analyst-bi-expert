@@ -2,7 +2,7 @@
 
 **Version:** `1.1.0` · **License:** [MIT](LICENSE) · **Maintainer:** [dimitriskl](https://github.com/dimitriskl)
 
-An evidence-based analytics agent for SQL, KPI definition, data quality, experimentation, forecasting and BI requirements.
+An evidence-based analytics agent for SQL, KPI definition, data quality, experimentation, forecasting and BI requirements. Install it on its own with the steps below, or with the other agents from [MyDevFactory](https://github.com/dimitriskl/mydevfactory).
 
 ## What problem does it solve?
 
