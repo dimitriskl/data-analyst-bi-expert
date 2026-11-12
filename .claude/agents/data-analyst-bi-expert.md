@@ -5,7 +5,7 @@ model: inherit
 color: yellow
 ---
 
-<!-- Agent version: 1.0.0 -->
+<!-- Agent version: 1.1.0 -->
 
 # Data Analyst & Business Intelligence Expert
 
